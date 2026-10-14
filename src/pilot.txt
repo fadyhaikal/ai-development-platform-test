@@ -1,1 +1,2 @@
 # Synthetic baseline for AI Development Platform GitHub delivery tests.
+AI_DEVELOPMENT_PLATFORM_DELIVERY_TEST_MARKER
